@@ -1,0 +1,9 @@
+
+title: متجر العرب
+description: مدونة عربية بسيطة باستخدام Jekyll
+author: متجر العرب
+theme: minima
+markdown: kramdown
+permalink: /:title/
+lang: ar
+direction: rtl
